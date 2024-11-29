@@ -17,7 +17,6 @@
             <button class="btn btn-primary show-list">Liste Görünümü</button>
         </div>
         <div id="chart-container"></div>
-
         <div class="d-none" id="table-container">
             <table id="list-table">
                 <thead>
